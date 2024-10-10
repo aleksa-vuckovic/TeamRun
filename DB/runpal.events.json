@@ -1,0 +1,148 @@
+[{
+  "_id": {
+    "$oid": "65e9340b120764713649c28f"
+  },
+  "name": "Belgrade Marathon",
+  "description": "The Belgrade Marathon is the biggest sporting event in Southeastern Europe.",
+  "image": "belgrade.jpg",
+  "time": {
+    "$numberLong": "1728547200000"
+  },
+  "distance": 42195,
+  "followers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e939e3120764713649c29e"
+  },
+  "name": "Chicago Marathon",
+  "description": "The Chicago Marathon is one of the six World Marathon Majors, renowned for its flat, fast course that runs through diverse neighborhoods, offering runners a scenic view of the city's iconic skyline. Held annually in October, it attracts elite athletes and thousands of participants worldwide, making it a premier event in the global marathon calendar.",
+  "image": "chicago.jpg",
+  "time": {
+    "$numberLong": "1728727200000"
+  },
+  "distance": 42195,
+  "followers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ee2f9cdecaa69c4725e81d"
+  },
+  "name": "London marathon",
+  "description": "The London Marathon is one of the world's most famous long-distance running events, held annually in the capital city of England. It attracts elite athletes, amateurs, and fundraisers from around the globe. The marathon course winds through iconic London landmarks such as Tower Bridge, the River Thames, and Buckingham Palace. Participants raise money for various charitable causes, making it a significant fundraising event. Spectators line the streets, creating an electrifying atmosphere as runners push themselves to achieve personal goals and make a positive impact through their participation.",
+  "image": "london.jpg",
+  "time": {
+    "$numberLong": "1728820800000"
+  },
+  "distance": 42195,
+  "followers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ee45ba04c5e9f48ce3c2f6"
+  },
+  "name": "New York Marathon",
+  "description": "The New York Marathon is one of the largest and most prestigious marathons in the world, attracting elite athletes and amateur runners alike. It takes place annually in November, winding through all five boroughs of New York City, starting on Staten Island and finishing in Central Park. The course showcases iconic landmarks such as the Verrazano-Narrows Bridge, Brooklyn Bridge, and Times Square, providing a unique and challenging experience for participants. Spectators line the streets, cheering on runners from diverse backgrounds and nations, creating an electrifying atmosphere throughout the race. The event embodies the spirit of perseverance and community, with runners pushing themselves to achieve personal goals while supporting various charitable causes. The New York Marathon is not just a race; it's a celebration of human endurance, determination, and the vibrant spirit of New York City.",
+  "image": "newyork.jpg",
+  "time": {
+    "$numberLong": "1728914400000"
+  },
+  "distance": 42195,
+  "followers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ee48b304c5e9f48ce3c344"
+  },
+  "name": "Beijing Marathon 2024",
+  "description": "The Beijing Marathon is a prestigious race that starts at Tiananmen Square and takes runners on a challenging course through the historic streets of China's capital, passing by significant cultural landmarks. Held annually in the fall, it attracts a large field of domestic and international runners, showcasing the rich history and vibrant energy of Beijing.",
+  "image": "beijing.jpg",
+  "time": {
+    "$numberLong": "1729000800000"
+  },
+  "distance": 42195,
+  "followers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ee4c9004c5e9f48ce3c349"
+  },
+  "name": "Berlin Marathon",
+  "description": "The Berlin Marathon is renowned for its fast, flat course, which winds through the heart of the city, passing iconic landmarks like the Brandenburg Gate and often resulting in world record-breaking performances. Held annually in September, it attracts elite runners and thousands of participants, making it one of the most popular and competitive marathons in the world.",
+  "image": "berlin.jpg",
+  "time": {
+    "$numberLong": "1729094400000"
+  },
+  "distance": 42195,
+  "followers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6606e1470e51c745f6c83816"
+  },
+  "name": "Belgrade 10k",
+  "description": "The Belgrade 10k is a 10 kilometer race, held this year alongside the traditional marathon and half marathon.",
+  "image": "1729180800000.jpg",
+  "time": {
+    "$numberLong": "1724615700000"
+  },
+  "distance": 42195,
+  "followers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6616e69276eab52208988b62"
+  },
+  "name": "Tokyo Marathon",
+  "description": "The Tokyo Marathon is one of the six World Marathon Majors, known for its flat and fast course that winds through iconic landmarks in the city, attracting elite runners and thousands of participants from around the world. Held annually in February or March, it showcases Japan's vibrant culture and has become a symbol of endurance and international camaraderie.",
+  "image": "tokyo.jpg",
+  "time": {
+    "$numberLong": "1729274400000"
+  },
+  "distance": 42195,
+  "followers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d24481a8b116cd3affeae6"
+  },
+  "name": "Barcelona Marathon",
+  "description": "The Barcelona Marathon offers a scenic course that takes runners through the city's vibrant streets, showcasing iconic landmarks such as La Sagrada Família and the Camp Nou stadium. Held annually in March, it combines a festive atmosphere with a challenging route, attracting both local and international participants.",
+  "image": "barcelona.jpg",
+  "time": {
+    "$numberLong": "1729353600000"
+  },
+  "distance": 42195,
+  "followers": [
+    {
+      "$oid": "65dd1c76fdc1a678c96ca739"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d244aea8b116cd3affeae8"
+  },
+  "name": "Oslo Marathon",
+  "description": "The Oslo Marathon takes runners through the picturesque streets of Norway's capital, offering views of the Oslo Fjord and historic sites like the Royal Palace and Akershus Fortress. Held annually in September, it features a variety of race distances, creating a vibrant event that celebrates fitness and the beauty of Oslo.",
+  "image": "oslo.jpg",
+  "time": {
+    "$numberLong": "1729454400000"
+  },
+  "distance": 42195,
+  "followers": [
+    {
+      "$oid": "65dd1c76fdc1a678c96ca739"
+    }
+  ],
+  "__v": 0
+}]

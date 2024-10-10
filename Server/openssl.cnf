@@ -1,0 +1,22 @@
+[req]
+default_bits = 2048
+default_md = sha256
+req_extensions = req_ext
+distinguished_name = dn
+prompt = no
+
+[ dn ]
+C=RS
+ST=City Of Belgrade
+L=Belgrade
+O=RunPal
+emailAddress=aleksa.vuckovic36@gmail.com
+CN = ec2-16-171-197-131.eu-north-1.compute.amazonaws.com
+
+[ req_ext ]
+subjectAltName = @alt_names
+
+[ alt_names ]
+DNS.1 = ec2-16-171-197-131.eu-north-1.compute.amazonaws.com
+DNS.2 = www.ec2-16-171-197-131.eu-north-1.compute.amazonaws.com
+IP.1= 16.171.197.131

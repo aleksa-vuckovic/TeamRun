@@ -1,0 +1,59 @@
+[{
+  "_id": {
+    "$oid": "65dd1c76fdc1a678c96ca739"
+  },
+  "email": "jake@gmail.com",
+  "password": "$2a$12$/NSl4YIDiIgmh2qxuZFNNOyDayuBWQ8E1hWpTB4jmuC.6XDK0PZXS",
+  "name": "Jake",
+  "last": "Jones",
+  "weight": 82.5,
+  "profile": "jake.jpg"
+},
+{
+  "_id": {
+    "$oid": "65e29ab92896639ce5479b87"
+  },
+  "email": "peter@gmail.com",
+  "password": "$2a$12$BVa1XkGnczrXpNnrzZVje.rWeNDnWZEI8MPpUwIdAj1V79Srbk2tm",
+  "name": "Peter",
+  "last": "Peterson",
+  "profile": "peter.jpg",
+  "weight": 85,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f45351192fbbb75c9877a6"
+  },
+  "email": "jenna@gmail.com",
+  "password": "$2a$12$Pb4GmQoteOy.C8xoQ3Vzs.x6SHodGaT9tmRjJ57vCBVnRieMwFk.O",
+  "name": "Jenna",
+  "last": "Smith",
+  "profile": "jenna.jpg",
+  "weight": 60,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d24805a8b116cd3affeaec"
+  },
+  "email": "josh@gmail.com",
+  "password": "$2a$12$nqTxtmzgSjMgbFlj/rGM6e8SxyT1PgoVR7QY5F8OccDaeQrArz9h.",
+  "name": "Josh",
+  "last": "Smith",
+  "profile": "josh.jpg",
+  "weight": 80,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d24836a8b116cd3affeaef"
+  },
+  "email": "maya@gmail.com",
+  "password": "$2a$12$PMhknY0GIznRE68N5nqzKO0Rg.LkVKbqdTICs5QkNMsLhaJE3jNPS",
+  "name": "Maya",
+  "last": "Jones",
+  "profile": "maya.jpg",
+  "weight": 80,
+  "__v": 0
+}]
